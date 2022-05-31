@@ -1,0 +1,9 @@
+body { background-color: rgb(115, 5, 206);
+    color: #000000;
+font-family: Arial, Helvetica, sans-serif;}
+
+a {-moz-text-decoration-line: overline;
+    color: #faf9f9;
+}
+h1 {color:#000000;
+text-align: center;} 
